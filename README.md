@@ -1,6 +1,6 @@
 # JavaScript Functions - Exercises
 
-![image](https://assets-v2.lottiefiles.com/a/edd9e57c-1175-11ee-923c-97d89504acf4/l26hXkGwri.gif)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png)
 
 ## Lesson Overview
 
